@@ -6,12 +6,15 @@ TABLE OF CONTENTS
 3.DATA SET           
 3.1 What is a Dataset 
 3.2 DATA SET COLUMN DESCRIPTION 
+
 4.DATA ANALYSIS                        
 5.PRE-REQUISITE LEARNING                                                                                                            
 5.1 INTRODUCTION TO PYTHON 
 5.2 INTRODUCTION TO MACHINE LEARNING 
 5.3 INTRODUCTION TO DATA SCIENCE 
 5.4 PYTHON FOR DATA SCIENCE 
+
+
 6.LITERATURE SURVEY                                                                                                                      
 7.SOFTWARE REQUIREMENT                                                                                                           
 8.METHODOLOGY                                                                                                                              
