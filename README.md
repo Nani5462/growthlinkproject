@@ -1,8 +1,11 @@
 # growthlinkproject
 
 TABLE OF CONTENTS 
-1.ABSTRACT           
-2.INTRODUCTION         
+
+1.ABSTRACT  
+
+2.INTRODUCTION  
+
 3.DATA SET
 
 3.1 What is a Dataset 
@@ -21,8 +24,10 @@ TABLE OF CONTENTS
 5.4 PYTHON FOR DATA SCIENCE 
 
 
-6.LITERATURE SURVEY                                                                                                                      
-7.SOFTWARE REQUIREMENT                                                                                                           
+6.LITERATURE SURVEY   
+
+7.SOFTWARE REQUIREMENT      
+
 8.METHODOLOGY                                                                                                                              
 8.1 MACHINE LEARNING PROCESS
 
@@ -33,6 +38,8 @@ TABLE OF CONTENTS
 8.4 NAIVE BAYES CLASSIFIER ALGORITHM                                                                                                                                
 
 ABSTRACT
+
+
 The sinking of the RMS Titanic is without a doubt one of the most infamous and horrific tragedies 
 in history. Out of 2224 passengers and crew, the Titanic tragically sank on her maiden voyage and 
 in the early hours of April 15, 1912, after colliding with an iceberg, killing almost 1502 of them. 
